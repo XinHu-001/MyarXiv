@@ -1,6 +1,6 @@
-site_title = "MyArxiv"
+site_title = "MyarXiv"
 limit_days = 7
-cache_url = "https://XinHu-001.github.io/MyArxiv/cache.json"
+cache_url = "https://XinHu-001.github.io/MyarXiv/cache.json"
 
 [[sources]]
 limit = 150
